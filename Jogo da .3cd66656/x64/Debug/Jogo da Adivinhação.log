@@ -1,0 +1,3 @@
+﻿  Adivinhação.cpp
+C:\Users\lucas\Desktop\Curso C++\Jogo da Adivinhação\Adivinhação.cpp(129,15): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  Jogo da Adivinhação.vcxproj -> C:\Users\lucas\Desktop\Curso C++\Jogo da Adivinhação\x64\Debug\Jogo da Adivinhação.exe

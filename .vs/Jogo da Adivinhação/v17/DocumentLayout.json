@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\Desktop\\Curso C\u002B\u002B\\Jogo da Adivinha\u00E7\u00E3o\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD66656-24E3-4215-9219-5C54D1776F23}|Jogo da Adivinha\u00E7\u00E3o.vcxproj|C:\\Users\\lucas\\Desktop\\Curso C\u002B\u002B\\Jogo da Adivinha\u00E7\u00E3o\\Adivinha\u00E7\u00E3o.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CD66656-24E3-4215-9219-5C54D1776F23}|Jogo da Adivinha\u00E7\u00E3o.vcxproj|solutionrelative:Adivinha\u00E7\u00E3o.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Adivinha\u00E7\u00E3o.cpp",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\Curso C\u002B\u002B\\Jogo da Adivinha\u00E7\u00E3o\\Adivinha\u00E7\u00E3o.cpp",
+              "RelativeDocumentMoniker": "Adivinha\u00E7\u00E3o.cpp",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\Curso C\u002B\u002B\\Jogo da Adivinha\u00E7\u00E3o\\Adivinha\u00E7\u00E3o.cpp",
+              "RelativeToolTip": "Adivinha\u00E7\u00E3o.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T17:34:58.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
